@@ -1,5 +1,10 @@
 # Image_Captioning_Using_Vision_Transformer
 
+Team Members: 
+Nagharjun M (nm4074)
+Rakshana BS (rb5118)
+Abirami S (as16288)
+
 Our project aims to address the critical challenge of generating descriptive sentences from images, which lies at the intersection of computer vision and natural language processing. With over 12 million visually impaired individuals [1] above the age of 40 in the United States alone, our proposed solution has the potential to enhance accessibility. Our approach involves training a transformer-based deep learning model, to understand the image and generate linguistically accurate captions. The encoder part utilizes a pre-trained Vision Transformer to extract features from an image. After extracting the features, they are fed to the transformer decoder network to generate captions. We evaluated our model's performance using standard evaluation metrics such as BLEU on the Flickr8K dataset. The Vision Transformer model was able to extract features on par and higher against other traditional CNN architectures in terms of quality. Our approach has potential applications in enabling more efficient image retrieval systems and improving accessibility for visually impaired individuals.
 
 ## Dataset:
