@@ -14,6 +14,11 @@ The Flickr8K dataset is a widely used benchmark for sentence-based image descrip
 ## Usage
 The `VisionCaption.ipynb` file can run locally through Jupyter Notebook or Google Colab.
 
+Before running, go to the mentioned link below and download the glove.6B.100d.txt.zip which contains the word embeddings. 
+Link: https://drive.google.com/file/d/12OE-X3innao-uHeMbZqe_lG19iFkEhSX/view?usp=sharing
+
+If you are using google colab, just upload the .zip file to the instance. 
+
 Requirements:
 
 Run the below command in the terminal to install dependencies.
