@@ -7,8 +7,7 @@ The Flickr8K dataset is a widely used benchmark for sentence-based image descrip
 
 ## Model Architecture:
 
-![DL_arch drawio (1)](https://github.com/Nagharjun17/ImageCaptioningUsingVisionTransformer/assets/64778259/3fbef4eb-4fe3-4a8c-94fd-b8c50b981f87)
-
+![DL_arch drawio](https://github.com/Nagharjun17/ImageCaptioningUsingVisionTransformer/assets/64778259/f339858c-4deb-47cd-b3a5-960eb4d8107c)
 
 
 ## Usage
